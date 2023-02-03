@@ -4,6 +4,7 @@
   "package": "com.globalista.mendinfinity.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
+    "InfinityEnchantmentMixin"
   ],
   "client": [
     "InfinityEnchantmentMixin"
